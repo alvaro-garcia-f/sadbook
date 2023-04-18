@@ -1,2 +1,2 @@
-# sadbook
-A sad Facebook clone for students to practice fixing styles
+# Sadbook
+A sad Facebook clone for students to practice React and CSS styling
